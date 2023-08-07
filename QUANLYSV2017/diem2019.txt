@@ -1,0 +1,10 @@
+					BANG DIEM MON HOC:  CAU TRUC DU LIEU VA GIAI THUAT
+					Nien khoa: 2018 	Hoc ky: 1	Nhom: 1
+
+
+          STT                MASV                  Ho                 Ten                Diem
+            1          N15DCCN166      NGUYEN THI THU                HIEN                 9.0
+            2          N15DCCN133           LE VU ANH                 DUC                 0.0
+            3          N15DCCN153            NONG KIM               CUONG                 0.0
+            4          N15DCCN142           HOANG THI                BINH                 0.0
+            5          N17DCCN074             TRAN AN                KHOA                 0.0

@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\quanlysv2017\quanlysv2017\qlsinhvien.h(905): warning C4101: 'temp': unreferenced local variable
+d:\quanlysv2017\quanlysv2017\qlsinhvien.h(1148): warning C4018: '<': signed/unsigned mismatch
+d:\quanlysv2017\quanlysv2017\qlsinhvien.h(1179): warning C4018: '<': signed/unsigned mismatch
+d:\quanlysv2017\quanlysv2017\qlloptinchi.h(996): warning C4101: 'maMH': unreferenced local variable
+d:\quanlysv2017\quanlysv2017\qlloptinchi.h(142): warning C4715: 'Search': not all control paths return a value
+d:\quanlysv2017\quanlysv2017\qlloptinchi.h(306): warning C4715: 'kiemtra_mmh': not all control paths return a value
+d:\quanlysv2017\quanlysv2017\qlloptinchi.h(353): warning C4715: 'kiemtra_Nhom': not all control paths return a value
+d:\quanlysv2017\quanlysv2017\qlloptinchi.h(401): warning C4715: 'kiemtra_HK': not all control paths return a value
+d:\quanlysv2017\quanlysv2017\qlloptinchi.h(452): warning C4715: 'kiemtra_nienkhoa': not all control paths return a value
+d:\quanlysv2017\quanlysv2017\qlloptinchi.h(527): warning C4715: 'kiemtra_nienkhoahocky': not all control paths return a value
+  QUANLYSV2017.vcxproj -> D:\QUANLYSV2017\Debug\QUANLYSV2017.exe
